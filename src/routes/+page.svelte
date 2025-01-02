@@ -1,2 +1,8 @@
-<h1>Welcome to SvelteKit</h1>
-<p>Visit <a href="https://svelte.dev/docs/kit">svelte.dev/docs/kit</a> to read the documentation</p>
+<h1>Welcome to my Resume!</h1>
+<p>Visit <a href="/about">About myself</a> to read about myself :p</p>
+
+<style>
+    a {
+        color: blue;
+    }
+</style>
