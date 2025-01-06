@@ -1,5 +1,6 @@
 # Resume Using Svelte
 
+This is a ongoing project for my own resume website.
 
 # sv
 
